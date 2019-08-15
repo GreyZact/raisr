@@ -7,7 +7,7 @@ A Python implementation of [RAISR](http://ieeexplore.ieee.org/document/7744595/)
 ### Prerequisites
 
 ```
-sudo apt install python3-tk
+sudo apt install python3-tk python-opencv
 pip3 install -r requirements.txt
 python3 test.py
 ```
