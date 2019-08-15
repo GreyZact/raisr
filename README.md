@@ -6,8 +6,11 @@ A Python implementation of [RAISR](http://ieeexplore.ieee.org/document/7744595/)
 
 ### Prerequisites
 
-> sudo apt-get install python3-tk
-> pip3 install -r requirements.txt
+```
+sudo apt install python3-tk
+pip3 install -r requirements.txt
+python3 test.py
+```
 
 You can install most of the following packages using [pip](https://pypi.python.org/pypi/pip).
 
